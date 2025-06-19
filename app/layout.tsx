@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "KILUZ - SIMULATEUR D'ENTRETIEN",
+  title: "Michaël Aguilar",
   description:
-    "Simulateur d'entretien d'embauche - Prêt à trouver le job de ses rêves ?",
+    "Entraînement IA, conférencier expert certifié CSP, Vendeurs d'élite.",
 };
 
 export default function RootLayout({
